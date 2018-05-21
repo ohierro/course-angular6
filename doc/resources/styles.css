@@ -1,0 +1,12 @@
+p .hero {
+    font-family: 'VT323', monospace;
+    color: rgba(0, 102, 255, 0.623);
+    font-size: 2.5em;
+}
+p .heroMessage {
+    /* font-family: 'VT323', monospace; */
+    color: rgba(255, 0, 0, 0.7);
+    font-size: 1.5em;
+}
+
+span { display: inline-block; }
